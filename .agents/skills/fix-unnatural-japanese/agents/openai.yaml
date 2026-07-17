@@ -1,0 +1,4 @@
+interface:
+  display_name: "不自然な日本語の修正"
+  short_description: "内容を変えず、日本語の引っ掛かりだけを診断して直す"
+  default_prompt: "Use $fix-unnatural-japanese to revise this Japanese text without changing its meaning."
